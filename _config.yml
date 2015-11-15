@@ -68,6 +68,6 @@ theme: landscape
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: github
-  repository: https://github.com/billysushengyang/billysushengyang.github.com.git
+  type: git
+  repository: https://github.com/billysushengyang/billysushengyang.github.io
   branch: master
